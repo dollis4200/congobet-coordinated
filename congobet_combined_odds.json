@@ -1,0 +1,19 @@
+{
+  "source": {
+    "site": "CongoBet",
+    "url": "https://www.congobet.net/virtual/category/instant-league/8035/matches",
+    "competition": null,
+    "markets": ["1X2", "G/NG"]
+  },
+  "metadata": {
+    "scraped_at_utc": null,
+    "rounds_detected": 0,
+    "rounds_processed": 0,
+    "rounds_skipped": [],
+    "matches_count": 0,
+    "json_local_path": "congobet_combined_odds.json",
+    "json_drive_path": null
+  },
+  "rounds": [],
+  "matches": []
+}

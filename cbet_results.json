@@ -1,0 +1,19 @@
+{
+  "source": {
+    "site": "CongoBet",
+    "url": "https://www.congobet.net/virtual/category/instant-league/8035/results",
+    "competition": null,
+    "category": "Instant League",
+    "market": "G/NG (résultat dérivé depuis le score final)",
+    "rule": "Oui si les deux équipes marquent au moins un but, sinon Non."
+  },
+  "metadata": {
+    "scraped_at_utc": null,
+    "show_more_clicks": 0,
+    "rounds_count": 0,
+    "round_labels": [],
+    "records_count": 0,
+    "deduplication": "unique_key = matchday|home_team|away_team|score"
+  },
+  "matches": []
+}

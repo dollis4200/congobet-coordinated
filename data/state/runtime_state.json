@@ -1,6 +1,465 @@
 {
-  "last_started_odds_hash": null,
-  "pending_cycle": null,
+  "last_started_odds_hash": "8b0428733c6e35c88581bf99c991926b127ecb711688a080089606f6bfcedb8f",
+  "pending_cycle": {
+    "cycle_id": "8b0428733c6e35c8",
+    "created_at_utc": "2026-05-15T14:45:30.138205+00:00",
+    "target_round_time": "15:03",
+    "target_journee": 17,
+    "target_match_count": 90,
+    "target_match_keys": [
+      {
+        "journee": 9,
+        "home": "Spurs",
+        "away": "Everton"
+      },
+      {
+        "journee": 9,
+        "home": "Sunderland",
+        "away": "Brentford"
+      },
+      {
+        "journee": 9,
+        "home": "London Reds",
+        "away": "Fulham"
+      },
+      {
+        "journee": 9,
+        "home": "N. Forest",
+        "away": "Manchester Blue"
+      },
+      {
+        "journee": 9,
+        "home": "Leeds",
+        "away": "West Ham"
+      },
+      {
+        "journee": 9,
+        "home": "Wolverhampton",
+        "away": "C. Palace"
+      },
+      {
+        "journee": 9,
+        "home": "Bournemouth",
+        "away": "Brighton"
+      },
+      {
+        "journee": 9,
+        "home": "A. Villa",
+        "away": "Liverpool"
+      },
+      {
+        "journee": 9,
+        "home": "Newcastle",
+        "away": "Burnley"
+      },
+      {
+        "journee": 9,
+        "home": "Manchester Red",
+        "away": "London Blues"
+      },
+      {
+        "journee": 10,
+        "home": "Brentford",
+        "away": "Leeds"
+      },
+      {
+        "journee": 10,
+        "home": "Brighton",
+        "away": "London Reds"
+      },
+      {
+        "journee": 10,
+        "home": "London Blues",
+        "away": "N. Forest"
+      },
+      {
+        "journee": 10,
+        "home": "Burnley",
+        "away": "Wolverhampton"
+      },
+      {
+        "journee": 10,
+        "home": "C. Palace",
+        "away": "Bournemouth"
+      },
+      {
+        "journee": 10,
+        "home": "Liverpool",
+        "away": "Manchester Red"
+      },
+      {
+        "journee": 10,
+        "home": "Everton",
+        "away": "West Ham"
+      },
+      {
+        "journee": 10,
+        "home": "Manchester Blue",
+        "away": "Spurs"
+      },
+      {
+        "journee": 10,
+        "home": "Newcastle",
+        "away": "A. Villa"
+      },
+      {
+        "journee": 10,
+        "home": "Fulham",
+        "away": "Sunderland"
+      },
+      {
+        "journee": 11,
+        "home": "Bournemouth",
+        "away": "Burnley"
+      },
+      {
+        "journee": 11,
+        "home": "Leeds",
+        "away": "Everton"
+      },
+      {
+        "journee": 11,
+        "home": "West Ham",
+        "away": "Manchester Blue"
+      },
+      {
+        "journee": 11,
+        "home": "N. Forest",
+        "away": "Liverpool"
+      },
+      {
+        "journee": 11,
+        "home": "Brentford",
+        "away": "Fulham"
+      },
+      {
+        "journee": 11,
+        "home": "Manchester Red",
+        "away": "Newcastle"
+      },
+      {
+        "journee": 11,
+        "home": "London Reds",
+        "away": "C. Palace"
+      },
+      {
+        "journee": 11,
+        "home": "Wolverhampton",
+        "away": "A. Villa"
+      },
+      {
+        "journee": 11,
+        "home": "Sunderland",
+        "away": "Brighton"
+      },
+      {
+        "journee": 11,
+        "home": "Spurs",
+        "away": "London Blues"
+      },
+      {
+        "journee": 12,
+        "home": "A. Villa",
+        "away": "Bournemouth"
+      },
+      {
+        "journee": 12,
+        "home": "London Blues",
+        "away": "West Ham"
+      },
+      {
+        "journee": 12,
+        "home": "Burnley",
+        "away": "London Reds"
+      },
+      {
+        "journee": 12,
+        "home": "C. Palace",
+        "away": "Sunderland"
+      },
+      {
+        "journee": 12,
+        "home": "Newcastle",
+        "away": "N. Forest"
+      },
+      {
+        "journee": 12,
+        "home": "Wolverhampton",
+        "away": "Manchester Red"
+      },
+      {
+        "journee": 12,
+        "home": "Liverpool",
+        "away": "Spurs"
+      },
+      {
+        "journee": 12,
+        "home": "Manchester Blue",
+        "away": "Everton"
+      },
+      {
+        "journee": 12,
+        "home": "Brighton",
+        "away": "Brentford"
+      },
+      {
+        "journee": 12,
+        "home": "Fulham",
+        "away": "Leeds"
+      },
+      {
+        "journee": 13,
+        "home": "Bournemouth",
+        "away": "Manchester Red"
+      },
+      {
+        "journee": 13,
+        "home": "Sunderland",
+        "away": "Burnley"
+      },
+      {
+        "journee": 13,
+        "home": "N. Forest",
+        "away": "Wolverhampton"
+      },
+      {
+        "journee": 13,
+        "home": "Fulham",
+        "away": "Brighton"
+      },
+      {
+        "journee": 13,
+        "home": "Leeds",
+        "away": "Manchester Blue"
+      },
+      {
+        "journee": 13,
+        "home": "West Ham",
+        "away": "Liverpool"
+      },
+      {
+        "journee": 13,
+        "home": "Everton",
+        "away": "London Blues"
+      },
+      {
+        "journee": 13,
+        "home": "Brentford",
+        "away": "C. Palace"
+      },
+      {
+        "journee": 13,
+        "home": "Spurs",
+        "away": "Newcastle"
+      },
+      {
+        "journee": 13,
+        "home": "London Reds",
+        "away": "A. Villa"
+      },
+      {
+        "journee": 14,
+        "home": "Burnley",
+        "away": "Brentford"
+      },
+      {
+        "journee": 14,
+        "home": "London Blues",
+        "away": "Manchester Blue"
+      },
+      {
+        "journee": 14,
+        "home": "Manchester Red",
+        "away": "London Reds"
+      },
+      {
+        "journee": 14,
+        "home": "Wolverhampton",
+        "away": "Spurs"
+      },
+      {
+        "journee": 14,
+        "home": "Bournemouth",
+        "away": "N. Forest"
+      },
+      {
+        "journee": 14,
+        "home": "C. Palace",
+        "away": "Fulham"
+      },
+      {
+        "journee": 14,
+        "home": "Liverpool",
+        "away": "Everton"
+      },
+      {
+        "journee": 14,
+        "home": "Newcastle",
+        "away": "West Ham"
+      },
+      {
+        "journee": 14,
+        "home": "A. Villa",
+        "away": "Sunderland"
+      },
+      {
+        "journee": 14,
+        "home": "Brighton",
+        "away": "Leeds"
+      },
+      {
+        "journee": 15,
+        "home": "Brighton",
+        "away": "C. Palace"
+      },
+      {
+        "journee": 15,
+        "home": "Everton",
+        "away": "Newcastle"
+      },
+      {
+        "journee": 15,
+        "home": "London Reds",
+        "away": "N. Forest"
+      },
+      {
+        "journee": 15,
+        "home": "Sunderland",
+        "away": "Manchester Red"
+      },
+      {
+        "journee": 15,
+        "home": "West Ham",
+        "away": "Wolverhampton"
+      },
+      {
+        "journee": 15,
+        "home": "Manchester Blue",
+        "away": "Liverpool"
+      },
+      {
+        "journee": 15,
+        "home": "Spurs",
+        "away": "Bournemouth"
+      },
+      {
+        "journee": 15,
+        "home": "Leeds",
+        "away": "London Blues"
+      },
+      {
+        "journee": 15,
+        "home": "Fulham",
+        "away": "Burnley"
+      },
+      {
+        "journee": 15,
+        "home": "Brentford",
+        "away": "A. Villa"
+      },
+      {
+        "journee": 16,
+        "home": "Manchester Red",
+        "away": "Brentford"
+      },
+      {
+        "journee": 16,
+        "home": "Bournemouth",
+        "away": "West Ham"
+      },
+      {
+        "journee": 16,
+        "home": "Wolverhampton",
+        "away": "Everton"
+      },
+      {
+        "journee": 16,
+        "home": "London Reds",
+        "away": "Spurs"
+      },
+      {
+        "journee": 16,
+        "home": "N. Forest",
+        "away": "Sunderland"
+      },
+      {
+        "journee": 16,
+        "home": "Newcastle",
+        "away": "Manchester Blue"
+      },
+      {
+        "journee": 16,
+        "home": "C. Palace",
+        "away": "Leeds"
+      },
+      {
+        "journee": 16,
+        "home": "A. Villa",
+        "away": "Fulham"
+      },
+      {
+        "journee": 16,
+        "home": "Liverpool",
+        "away": "London Blues"
+      },
+      {
+        "journee": 16,
+        "home": "Burnley",
+        "away": "Brighton"
+      },
+      {
+        "journee": 17,
+        "home": "Brighton",
+        "away": "A. Villa"
+      },
+      {
+        "journee": 17,
+        "home": "Leeds",
+        "away": "Liverpool"
+      },
+      {
+        "journee": 17,
+        "home": "London Blues",
+        "away": "Newcastle"
+      },
+      {
+        "journee": 17,
+        "home": "Fulham",
+        "away": "Manchester Red"
+      },
+      {
+        "journee": 17,
+        "home": "C. Palace",
+        "away": "Burnley"
+      },
+      {
+        "journee": 17,
+        "home": "Brentford",
+        "away": "N. Forest"
+      },
+      {
+        "journee": 17,
+        "home": "West Ham",
+        "away": "London Reds"
+      },
+      {
+        "journee": 17,
+        "home": "Manchester Blue",
+        "away": "Wolverhampton"
+      },
+      {
+        "journee": 17,
+        "home": "Everton",
+        "away": "Bournemouth"
+      },
+      {
+        "journee": 17,
+        "home": "Sunderland",
+        "away": "Spurs"
+      }
+    ],
+    "odds_hash": "8b0428733c6e35c88581bf99c991926b127ecb711688a080089606f6bfcedb8f"
+  },
   "last_completed_cycle_id": null,
   "last_results_hash": null
 }
